@@ -6,6 +6,11 @@
 body{
     background:#F5F5F5;
 }
+#Espacio{
+    width: 100%;
+    font-size: 80px;
+    color: brown;
+}
 
 header{
     width:100%;
