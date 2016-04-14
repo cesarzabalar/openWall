@@ -16,6 +16,9 @@
             </div>
         </header>
         <section class="contenido wrapper">
+            <div id="Espacio"> Este es un espacio publicitario</div>
+            <br>
+            <br>
             <div class="cont">
                 <textarea id="comentario" rows="5" cols="25"></textarea>
                 <h1 id="contador"> Cualquier cosa</h1>

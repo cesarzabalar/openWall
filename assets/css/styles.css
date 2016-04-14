@@ -7,6 +7,12 @@ body{
     background:#F5F5F5;
 }
 
+#Espacio{
+    width: 100%;
+    font-size: 80px;
+    color: brown;
+}
+
 header{
     width:100%;
     overflow:hidden;
@@ -18,6 +24,10 @@ header{
     max-width:1000px;
     margin:auto;
     overflow:hidden;
+}
+
+.fondo{
+    background:#252932;
 }
 .contenido{
     padding-top:50px;
