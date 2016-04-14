@@ -15,7 +15,7 @@
                 <div class="logo">Muro de las lamentaciones</div>
             </div>
         </header>
-        <section class="contenido wrapper">
+        <section class="contenido wrapper fondo">
             <div id="Espacio"> Este es un espacio publicitario</div>
             <br>
             <br>

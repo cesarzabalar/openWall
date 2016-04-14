@@ -12,6 +12,10 @@ body{
     color: brown;
 }
 
+.fondo{
+    background:#252932;
+}
+
 header{
     width:100%;
     overflow:hidden;
